@@ -5,6 +5,10 @@ This is a tool to do replay attacks with different values. A very handy tool whe
 This tool is only for educational purpose or to learn train working with fiddlercore.
 You are not allowed to distribute it in any other way then this github repository.
 
+# Used Package Versions
+FiddlerCore.4.5.1.0
+NUnit.2.6.4
+
 
 # License
 As you see the project does not have any license, that is because fidlercore is copyright material from Copyright © 2016, Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.
