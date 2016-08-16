@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCloneFuzzer", "NetCloneFuzzer\NetCloneFuzzer.csproj", "{57BB93CC-1058-4A90-B7F8-ED3C20FDF7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCloneFuzzer.Tests", "NetCloneFuzzer.Tests\NetCloneFuzzer.Tests.csproj", "{376B5AF4-5B69-4F86-A05F-ADF2D94B2E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BB93CC-1058-4A90-B7F8-ED3C20FDF7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BB93CC-1058-4A90-B7F8-ED3C20FDF7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BB93CC-1058-4A90-B7F8-ED3C20FDF7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BB93CC-1058-4A90-B7F8-ED3C20FDF7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376B5AF4-5B69-4F86-A05F-ADF2D94B2E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376B5AF4-5B69-4F86-A05F-ADF2D94B2E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376B5AF4-5B69-4F86-A05F-ADF2D94B2E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376B5AF4-5B69-4F86-A05F-ADF2D94B2E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
