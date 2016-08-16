@@ -10,8 +10,3 @@ FiddlerCore.4.5.1.0
 
 NUnit.2.6.4
 
-
-# License
-As you see the project does not have any license, that is because fidlercore is copyright material from Copyright © 2016, Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.
-NUunit is copyrighted by: Copyright © 2002-2014 Charlie Poole , Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov , Copyright © 2000-2002 Philip A. Craig
-All other code Namely in the folders: NetCloneFuzzer , NetCloneFuzzer.Tests can be freely used / modified / replicated.
