@@ -6,7 +6,7 @@ Use the url example.com, then use .net regular expressions to modify the header/
 When a request is made, netCloneFuzzer holds it and prepare's all requests, as soon as all are prepared it releases them at once.
 
 # Screenshot
-![Alt text](https://raw.githubusercontent.com/snapo/netCloneFuzzer/master/Screenshot.PNG "Screenshot")
+![Alt text](./Screenshot.PNG "Screenshot")
 
 # Operating Systems tested
 * Windows 10
