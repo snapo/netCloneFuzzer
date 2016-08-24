@@ -5,6 +5,9 @@ Website race-condition tester. With regular expressions on live HTTP/HTTPS event
 Use the url example.com, then use .net regular expressions to modify the header/body of the send message. Additionaly you can define how many times this request should be sent.
 When a request is made, netCloneFuzzer holds it and prepare's all requests, as soon as all are prepared it releases them at once.
 
+# Screenshot
+![Alt text](https://raw.githubusercontent.com/snapo/netCloneFuzzer/master/Screenshot.PNG "Screenshot")
+
 # Educational use only
 This tool is only for educational purpose or to learn train working with fiddlercore and raceconditions.
 You are not allowed to distribute it in any other way then this github repository.
