@@ -8,6 +8,10 @@ When a request is made, netCloneFuzzer holds it and prepare's all requests, as s
 # Screenshot
 ![Alt text](https://raw.githubusercontent.com/snapo/netCloneFuzzer/master/Screenshot.PNG "Screenshot")
 
+# Operating Systems tested
+* Windows 10
+* Windows 7
+
 # Educational use only
 This tool is only for educational purpose or to learn train working with fiddlercore and raceconditions.
 You are not allowed to distribute it in any other way then this github repository.
