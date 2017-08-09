@@ -8,6 +8,9 @@ When a request is made, netCloneFuzzer holds it and prepare's all requests, as s
 # Screenshot
 ![Alt text](./Screenshot.PNG "Screenshot")
 
+# Sample Regex
+![Alt text](./sample-regex.jpg "Screenshot")
+
 # Operating Systems tested
 * Windows 10
 * Windows 7
